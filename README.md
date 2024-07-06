@@ -16,3 +16,6 @@ Enthousiaste à l'idée de collaborer et d'innover 🛠️
 🎯 Objectif : Contribuer à des projets innovants et faire partie d'une équipe dynamique pour créer un avenir meilleur avec l'IA. 🚀
 
 Merci et à très bientôt ! 🌟
+
+![snake gif](https://github.com/victoria-1989/victoria-1989/blob/output/github-contribution-grid-snake.svg)
+
