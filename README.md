@@ -1,5 +1,6 @@
 # Hey, this is Victoria 👋
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 Bonjour à tous,
 
 Je suis à la recherche d’une entreprise pour mes futures études en contrat de professionnalisation comme Chef de Projet IA. 🌟
