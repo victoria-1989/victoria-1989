@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
+
 Bonjour à tous,
 
 Je suis à la recherche d’une entreprise pour mes futures études en contrat de professionnalisation comme Chef de Projet IA. 🌟
