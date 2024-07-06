@@ -1,5 +1,3 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
-
 # Hey, this is Victoria 👋
 
 Bonjour à tous,
