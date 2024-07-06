@@ -20,5 +20,9 @@ Enthousiaste à l'idée de collaborer et d'innover 🛠️
 
 Merci et à très bientôt ! 🌟
 
+ <div align="center">
+   <h2>🐍 My Contributions 🐍</h2>
+ </div>
+  
 ![snake gif](https://github.com/victoria-1989/victoria-1989/blob/output/github-contribution-grid-snake.svg)
 
