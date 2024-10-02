@@ -20,6 +20,11 @@ Enthousiaste à l'idée de collaborer et d'innover 🛠️
 Merci et à très bientôt ! 🌟
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  <div align="center">
+
+  <a href="https://www.linkedin.com/in/victoria-boyer2/" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
    <h2>🐍 My Contributions 🐍</h2>
  </div>
   
