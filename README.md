@@ -18,6 +18,17 @@ Enthousiaste à l'idée de collaborer et d'innover 🛠️
 🎯 Objectif : Contribuer à des projets innovants et faire partie d'une équipe dynamique pour créer un avenir meilleur avec l'IA. 🚀
 
 Merci et à très bientôt ! 🌟
+
+## 🛠️ Tools & Technologies
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" width="40" height="40" />
+</div>
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  <div align="center">
 
@@ -27,7 +38,7 @@ Merci et à très bientôt ! 🌟
 <a href="https://github.com/victoria-1989/portfolio" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Mon_Portfolio-37a779?style=for-the-badge" alt="Mon Portfolio">
 </a>
-
+          
    <h2>🐍 My Contributions 🐍</h2>
  </div>
   
