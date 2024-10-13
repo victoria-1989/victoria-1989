@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 Bonjour à tous,
 
-Je suis à la recherche d’une entreprise pour mes futures études en contrat de professionnalisation comme Chef de Projet IA. 🌟
+<br>Je suis à la recherche d’une entreprise pour mes futures études en contrat de professionnalisation comme Chef de Projet IA. 🌟
 
 En reconversion professionnelle, je suis curieuse, dynamique et prête à relever de nouveaux défis. 💪✨
 
@@ -33,5 +33,11 @@ Merci et à très bientôt ! 🌟
   
 ![snake gif](https://github.com/victoria-1989/victoria-1989/blob/output/github-contribution-grid-snake.svg)
 
-![](https://komarev.com/ghpvc/?username=victoria-1989&color=brightgreen)
-![Codewars Badge](https://www.codewars.com/users/victoria-1989/badges/micro)
+<div align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoria-1989&show_icons=true&theme=tokyonight)
+  </div>
+
+  ![](https://komarev.com/ghpvc/?username=victoria-1989&color=brightgreen)
+  
+  ![Codewars Badge](https://www.codewars.com/users/victoria-1989/badges/micro)
