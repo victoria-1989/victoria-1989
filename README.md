@@ -44,6 +44,8 @@ Mon profil en bref:
   <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="Trello" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Airtable_Logo.svg" alt="Airtable" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="Discord" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="PowerPoint" width="50" height="50" />
+
 </div>
 
 
