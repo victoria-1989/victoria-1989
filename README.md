@@ -1,23 +1,27 @@
 # Hey, this is Victoria 👋
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-Bonjour à tous,
 
-<br>Je suis à la recherche d’une entreprise pour mes futures études en contrat de professionnalisation comme Chef de Projet IA. 🌟
+Bonjour à tous,<br>
 
-En reconversion professionnelle, je suis curieuse, dynamique et prête à relever de nouveaux défis. 💪✨
+🎓 J’ai récemment obtenu ma certification RNCP niveau 6 (équivalent bac +3) de data analyst suite à ma formation en bootcamp à la Wild Code School. 
 
-📚 Mon profil en bref:
+🚀 Je suis actuellement à la recherche d’une entreprise pour effectuer une alternance de chef de projet IA/ Data engineer dans cette même école avec un rythme d’une semaine en école et 3 semaines en entreprise pour une durée de 15 mois.
 
-Passionnée par l'intelligence artificielle 🤖
-Toujours en quête de nouvelles connaissances 📈
-Enthousiaste à l'idée de collaborer et d'innover 🛠️
-👉 Si vous êtes à la recherche d'un talent motivé et déterminé pour rejoindre votre équipe, n'hésitez pas à me contacter !
+💪 Je suis curieuse, créative, dynamique et prête à relever de nouveaux défis. ✨
+
+<br>
+Mon profil en bref:
+
+🤖 Passionnée par l'intelligence artificielle
+📈 Toujours en quête de nouvelles connaissances
+🛠️ Enthousiaste à l'idée de collaborer et d'innover
+
+👉 Si vous êtes à la recherche d'un talent motivé et déterminé pour rejoindre votre équipe, n'hésitez pas à me contacter !<br>
+🎯 Objectif : Contribuer à des projets innovants et faire partie d'une équipe dynamique pour créer un avenir meilleur avec l'IA. 🚀<br>
+
+🙏 Merci et à très bientôt ! 🌟<br>
 
 #DataAnalyst #AI #Alternance #Innovation #ReconversionProfessionnelle #ReadyForChallenges #LetsInnovate #CareerGoals #FutureLeader
-
-🎯 Objectif : Contribuer à des projets innovants et faire partie d'une équipe dynamique pour créer un avenir meilleur avec l'IA. 🚀
-
-Merci et à très bientôt ! 🌟
 
 <div align="center">
   <h2>🛠️ Tools & Technologies</h2>
