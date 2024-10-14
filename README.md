@@ -1,3 +1,10 @@
+   <div align="center"><a href="https://www.linkedin.com/in/victoria-boyer2/" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/victoria-1989/portfolio" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Mon_Portfolio-37a779?style=for-the-badge" alt="Mon Portfolio">
+</a> </div>
+
 # Hey, this is Victoria 👋
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -51,13 +58,6 @@ Mon profil en bref:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  <div align="center">
-
-  <a href="https://www.linkedin.com/in/victoria-boyer2/" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/victoria-1989/portfolio" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Mon_Portfolio-37a779?style=for-the-badge" alt="Mon Portfolio">
-</a>
           
    <h2>🐍 My Contributions 🐍</h2>
  </div>
