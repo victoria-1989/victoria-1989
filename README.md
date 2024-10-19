@@ -28,7 +28,8 @@ Mon profil en bref:
 
 🙏 Merci et à très bientôt ! 🌟<br>
 
-#DataAnalyst #AI #Alternance #Innovation #ReconversionProfessionnelle #ReadyForChallenges #LetsInnovate #CareerGoals #FutureLeader
+<div align="center">#DataAnalyst #AI #Alternance #Innovation #ReconversionProfessionnelle #ReadyForChallenges #LetsInnovate #CareerGoals #FutureLeader
+</div>
 
 <div align="center">
   <h2>🛠️ Tools & Technologies</h2>
